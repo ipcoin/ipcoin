@@ -1,0 +1,4 @@
+ipcoin
+======
+
+ipcoin cryptocurrency
